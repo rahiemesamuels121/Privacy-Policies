@@ -176,5 +176,5 @@ Policy or CyberRun's handling of information, contact:
 **Rural Agricultural Development Authority (RADA)**\
 Jamaica
 
-**Email:** `[INSERT SUPPORT/PRIVACY EMAIL]`\
-**Website:** `[INSERT CYBERRUN OR RADA WEBSITE]`
+**Email:** `[cptech@rada.gov.jm]`\
+
